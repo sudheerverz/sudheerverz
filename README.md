@@ -139,11 +139,11 @@
 <p style="color: #94A3B8; font-size: 13px;">Follow for full-stack architecture insights, code repositories, and updates across platforms (User ID: <b>@sudhirverz</b>)</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sudhirverz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
-  <a href="https://x.com/sudhirverz" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" /></a>
-  <a href="https://instagram.com/sudhirverz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
-  <a href="https://threads.net/@sudhirverz" target="_blank"><img src="https://img.shields.io/badge/Threads-18181B?style=for-the-badge&logo=threads&logoColor=white" height="28" /></a>
-  <a href="https://facebook.com/sudhirverz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" /></a>
+  <a href="https://linkedin.com/in/sudheerverz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+  <a href="https://x.com/sudheerverz" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" /></a>
+  <a href="https://instagram.com/sudheerverz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>
+  <a href="https://threads.net/@sudheerverz" target="_blank"><img src="https://img.shields.io/badge/Threads-18181B?style=for-the-badge&logo=threads&logoColor=white" height="28" /></a>
+  <a href="https://facebook.com/sudheerverz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" /></a>
   <a href="https://binayakverz.substack.com" target="_blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" height="28" /></a>
   <a href="https://binayakverz.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" height="28" /></a>
 </p>
